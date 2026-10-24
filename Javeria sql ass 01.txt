@@ -1,4 +1,4 @@
--- ============================================
+c:\Users\INSPIRE COMP\Documents\SMIT 2026\Javeria sql ass 01.txt-- ============================================
 -- SQL Server — Class 1 Homework
 -- BikeStores Sample Database
 -- Topics: Querying · Sorting · Filtering · Set Operators
